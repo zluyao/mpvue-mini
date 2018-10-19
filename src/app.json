@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/counter/main",
+    "pages/counter2/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "禾连保",
+    "navigationBarTextStyle": "black"
+  }
+}
